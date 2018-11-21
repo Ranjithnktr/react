@@ -33,7 +33,7 @@ class App extends Component {
     }
   }
 
-
+  //Develop
   checkIsAuthenticated() {
     let html = '';
     // let isAuthenticated=sessionStorage.getItem('isAuthenticated');
