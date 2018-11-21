@@ -1,0 +1,22 @@
+.col-center{
+  float: none;
+  margin: 0 auto;
+}
+.card-header-primary{
+  background: linear-gradient(60deg, #7bd181, #f07b17) !important;
+}
+
+.btn-primary{
+  background: linear-gradient(60deg, #7bd181, #f07b17) !important;
+}
+
+.text-left{
+  text-align: left !important;
+}
+
+.div-center{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
