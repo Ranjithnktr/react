@@ -46,6 +46,10 @@ class App extends Component {
     return html;
   }
 
+  changes() {
+
+  }
+
   render() {
     return (
       <div id="root">
